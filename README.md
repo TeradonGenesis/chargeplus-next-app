@@ -9,9 +9,9 @@ The NextJS app is accessible is available at: https://chargeplus-next-app.vercel
 
 ### Repo
 
-The github repo is available at: https://github.com/TeradonGenesis/chargeplus-assessment
+The python flask github repo is available at: https://github.com/TeradonGenesis/chargeplus-assessment
 
-The github repo is available at: https://github.com/TeradonGenesis/chargeplus-next-app
+The NextJS app github repo is available at: https://github.com/TeradonGenesis/chargeplus-next-app
 
 
 ### Installation
