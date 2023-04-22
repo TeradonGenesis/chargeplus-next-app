@@ -6,7 +6,7 @@ async function calculateParkingRate(carRegNo: string, enterDateTime: string, exi
     let totalAmt: string = ''
     let breakdown: string[] = []
     let payBreakdown = {reg_no: '',in: '',out: '',duration: '',amount_to_pay: '',breakdown: ['']}
-    const endpoint = `http://eddielim.pythonanywhere.com/parkings/rate/hourly`
+    const endpoint = `https://eddielim.pythonanywhere.com/parkings/rate/hourly`
     await axios.post(endpoint,{
       "car_reg_no": carRegNo,
       "in_datetime": enterDateTime,
