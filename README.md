@@ -4,10 +4,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ### Live Version
 The python flask server is available at: https://eddielim.pythonanywhere.com/
+
 The github repo is available at: https://github.com/TeradonGenesis/chargeplus-assessment
 
 
 The NextJS app is accessible is available at: https://chargeplus-next-app.vercel.app/
+
 The github repo is available at: https://github.com/TeradonGenesis/chargeplus-next-app
 
 
